@@ -1,0 +1,9 @@
+It arises when a class inherits from two classes, both of which have a common base class.
+make classes B and C inherit A virtually 
+
+
+        A
+       / \
+     B    C
+       \ /
+        D
