@@ -20,7 +20,7 @@ class C : public P{
     public:
         void mem(){
             XX(); //pub() and prot()
-            p.YY(); //pub() not private and protected
+            p.YY(); //only pub() object of class
             pc-> ZZ(); //pub() and prot()
         }
 };
