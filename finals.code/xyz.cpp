@@ -19,9 +19,9 @@ class C : public P{
 
     public:
         void mem(){
-            XX(); //pub() and prot()
+            XX(); //pub() and prot() object of derived class
             p.YY(); //only pub() object of class
-            pc-> ZZ(); //pub() and prot()
+            pc->ZZ(); //pub() and prot()
         }
 };
 
