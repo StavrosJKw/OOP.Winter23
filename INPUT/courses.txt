@@ -1,0 +1,25 @@
+Algorithms_and_Data_Structures 6 1 8
+Database_Management_Systems 5 1 8
+Software_Engineering 6 1 8
+Machine_Learning 8 1 8
+Software_Testing 5 1 8
+Blockchain_Technology 7 1 8
+Cybersecurity 7 1 8
+Data_Analytics 6 0 8
+
+Computer_Networks 6 1 7
+Web_Development 5 0 7
+Operating_Systems 6 1 7
+Natural_Language_Processing 8 1 7
+Cloud_Computing 6 1 7
+Internet_of_Things 5 1 7
+
+Mobile_App_Development 5 1 6
+Computer_Graphics 7 0 6
+Artificial_Intelligence 7 0 6
+
+Parallel_Computing 6 0 4
+
+Computer_Vision 8 0 3
+
+Game_Development 7 1 1
